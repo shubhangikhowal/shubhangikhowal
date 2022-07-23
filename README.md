@@ -1,4 +1,4 @@
-- <b> Hi, I’m Shubhangi Khowal <b>
+- <b><font size = '50px'> Hi, I’m Shubhangi Khowal <b>
 - 👀 I’m interested in python, html, css, javascript
 - 🌱 I’m currently learning pyhton and javascript
 - 📫 How to reach me shubhangikhowal121@gmail.com
