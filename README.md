@@ -1,4 +1,4 @@
-- font-size: 15px Hi, I’m Shubhangi Khowal 
+- <style font-size: 15px> Hi, I’m Shubhangi Khowal </style>
 - 👀 I’m interested in python, html, css, javascript
 - 🌱 I’m currently learning pyhton and javascript
 - 📫 How to reach me shubhangikhowal121@gmail.com
